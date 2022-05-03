@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Chintan</h1>
-<h3>I give cool solutions to dumm problems.</h3>
+<h3>I give cool solutions to silly problems.</h3>
 <br/>
 <h3>ME:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputchintan22" alt="rajputchintan22" /> </p>
